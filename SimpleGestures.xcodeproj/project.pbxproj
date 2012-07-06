@@ -276,6 +276,7 @@
 				6C85ECA815A3675C00F15B06 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
